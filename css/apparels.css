@@ -1,0 +1,211 @@
+body{
+  background-color: #f5f3ee;
+}
+.head{
+  background-color: #7d1935;
+  display: inline-block;
+  width: 100%;
+  height: 20%;
+  border-radius: 20px;
+
+}
+.logo{
+}
+.logo img{
+  width: 10%;
+  height: 10%;
+  margin: 10px;
+  float: left;
+
+}
+.name{
+  float: none;
+  width:60%;
+  height: 20%;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 25px;
+  color:#ffffff;
+  text-align: center;
+  margin: 10px;
+  margin-top: 20px;
+
+}
+.login{
+  width: 15%;
+  height: 15%;
+  float: right;
+  padding: 15px;
+  text-align: center;
+
+}
+.login a{
+  height: 15%;
+  width: 15%;
+  background-color: #4a96ad;
+  color: #ffffff;
+  padding: 10px;
+  font-style: italic;
+  font-family: monospace;
+  margin: 10px;
+  margin-bottom: 100px;
+  text-decoration: none;
+}
+nav{
+  padding: 2px;
+  background-color: #4e2e28;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  border-radius: 20px;
+}
+nav a{
+  text-decoration: none;
+  color: #eeb4b4;
+  padding: 30px;
+  font-size: 20px;
+}
+.slider{
+  max-height: 300px;
+  border-radius: 20px ;
+}
+.one {
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  height: 350px;
+}
+.one img{
+  display: inline-block;
+  height: 300px;
+  width: 600px;
+}
+.pen{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+
+}
+.two {
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  height: 350px;
+}
+.two img{
+  display: inline-block;
+  height: 300px;
+  width: 600px;
+}
+.pencil{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+
+}.three {
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  height: 350px;
+}
+.three img{
+  display: inline-block;
+  height: 300px;
+  width: 600px;
+}
+.paper{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+
+}.four{
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  height: 350px;
+}
+.four img{
+  display: inline-block;
+  height: 300px;
+  width: 600px;
+}
+.cert{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+
+}.five{
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  height: 350px;
+}
+.five img{
+  display: inline-block;
+  height: 300px;
+  width: 600px;
+}
+.calc{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+
+}.six{
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  height: 350px;
+}
+.six img{
+  display: inline-block;
+  height: 300px;
+  width: 600px;
+}
+.dra{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+
+}

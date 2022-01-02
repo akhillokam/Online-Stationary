@@ -1,0 +1,19 @@
+body{
+  background-color: #7d1935;
+}
+.login{
+  width: 40%;
+  height: 70%;
+  background-color: #;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+  border: 2px solid white;
+  padding: 20px;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+  background-color: #f5f3ee;
+  border-radius: 25px;
+  color: #4a96ad;
+}

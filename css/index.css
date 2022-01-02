@@ -1,0 +1,87 @@
+body{
+  background-color: #f5f3ee;
+
+}
+.head{
+  background-color: #7d1935;
+  display: inline-block;
+  width: 100%;
+  height: 20%;
+  border-radius: 20px;
+
+}
+.logo{
+}
+.logo img{
+  width: 10%;
+  height: 10%;
+  margin: 10px;
+  float: left;
+
+}
+.name{
+  float: none;
+  width:60%;
+  height: 20%;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 25px;
+  color:#ffffff;
+  text-align: center;
+  margin: 10px;
+  margin-top: 20px;
+
+}
+.mid{
+  width: 100%;
+  margin: 5px;
+  display: inline-flex;
+  height: 400px;
+  padding: 10px;
+}
+.about{
+  float: left;
+  height: 400px;
+  width: 50%;
+  margin-right: 5px;
+  border-radius: 25px;
+  text-align: center;
+  border: 1px solid black;
+  display: ;
+
+}
+.about h2{
+  font-size: 40px;
+
+}
+.about p{
+  font-size: 25px;
+  text-align: center;
+  padding: 10px;
+}
+.patthi{
+  float: right;
+  display: ;
+
+  margin-left: 5px;
+  height: 400px;
+  width: 50%;
+  border-radius: 25px;
+  text-align: center;
+  text-align: center;
+  border: 1px solid black;
+  display: inline;
+
+}
+.patthi a {
+    margin-top: 50px;
+
+    padding: 20px;
+    height: 20px;
+    width: 70px;
+    text-decoration: none;
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid  black;
+    border-radius: 25px;
+}

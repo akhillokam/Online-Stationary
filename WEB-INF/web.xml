@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <servlet>
+    <servlet-name>Reg</servlet-name>
+    <servlet-class>Reg</servlet-name>
+  </servlet>
+ <servlet>
+	<servlet-name>LoginValidate</servlet-name>
+	<servlet-class>LoginValidate</servlet-class>
+	</servlet>
+<servlet-mapping>
+  <servlet-name>Reg</servlet-name>
+  <url-pattern>/Reg</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>LoginValidate</servlet-name>
+	<url-pattern>/LoginValidate</url-pattern>
+</servlet-mapping>
+</web-app>
